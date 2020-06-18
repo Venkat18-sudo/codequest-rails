@@ -1,4 +1,5 @@
 class User < ApplicationRecord
+<<<<<<< HEAD
 	has_many :microposts, dependent: :destroy
 	attr_accessor :remember_token
 
@@ -26,3 +27,6 @@ class User < ApplicationRecord
 	end
 
 end
+=======
+end
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c

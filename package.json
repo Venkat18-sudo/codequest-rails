@@ -1,13 +1,20 @@
 {
+<<<<<<< HEAD
   "name": "sample_app",
+=======
+  "name": "hello_world",
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.2.2",
+<<<<<<< HEAD
     "bootstrap": "4.5.0",
     "jquery": "3.5.1",
+=======
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",

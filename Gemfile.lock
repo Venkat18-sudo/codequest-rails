@@ -58,6 +58,7 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+<<<<<<< HEAD
     autoprefixer-rails (9.7.6)
       execjs
     bcrypt (3.1.13)
@@ -70,6 +71,11 @@ GEM
       sassc-rails (>= 2.0.0)
     bootstrap-will_paginate (1.0.0)
       will_paginate
+=======
+    bindex (0.8.1)
+    bootsnap (1.4.6)
+      msgpack (~> 1.0)
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c
     builder (3.2.4)
     byebug (11.1.3)
     capybara (3.32.2)
@@ -84,9 +90,12 @@ GEM
     concurrent-ruby (1.1.6)
     crass (1.0.6)
     erubi (1.9.0)
+<<<<<<< HEAD
     execjs (2.7.0)
     faker (2.12.0)
       i18n (>= 1.6, < 2)
+=======
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c
     ffi (1.13.0)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
@@ -113,7 +122,10 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
+<<<<<<< HEAD
     popper_js (1.16.0)
+=======
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c
     public_suffix (4.0.5)
     puma (4.3.5)
       nio4r (~> 2.0)
@@ -203,7 +215,10 @@ GEM
     websocket-driver (0.7.2)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
+<<<<<<< HEAD
     will_paginate (3.1.8)
+=======
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c
     xpath (3.2.0)
       nokogiri (~> 1.8)
     zeitwerk (2.3.0)
@@ -212,6 +227,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   bcrypt (~> 3.1.7)
   bootsnap (>= 1.4.2)
   bootstrap (~> 4.5.0)
@@ -219,6 +235,11 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   faker
+=======
+  bootsnap (>= 1.4.2)
+  byebug
+  capybara (>= 2.15)
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c
   jbuilder (~> 2.7)
   listen (~> 3.2)
   puma (~> 4.1)
@@ -233,7 +254,10 @@ DEPENDENCIES
   web-console (>= 3.3.0)
   webdrivers
   webpacker (~> 4.0)
+<<<<<<< HEAD
   will_paginate (= 3.1.8)
+=======
+>>>>>>> fea79a16629de1290d9058f07d792a9809124d2c
 
 RUBY VERSION
    ruby 2.7.1p83
